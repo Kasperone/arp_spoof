@@ -1,4 +1,4 @@
-# ARP Spoofer
+# ARP Spoof
 
 This is a Python script that demonstrates ARP spoofing to intercept and manipulate network traffic between a target and a gateway. It is intended for educational purposes to understand ARP poisoning and its implications for network security.
 
@@ -17,7 +17,7 @@ This is a Python script that demonstrates ARP spoofing to intercept and manipula
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/arp_spoofer.git
+git clone https://github.com/Kasperone/arp_spoof.git
 cd arp_spoofer
 ```
 
